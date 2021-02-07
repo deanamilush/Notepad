@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_note_add_update.xml",
+        "source": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/src/main/res/layout/activity_note_add_update.xml"
+    },
+    {
+        "merged": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_note.xml",
+        "source": "/Users/deanamilush/Desktop/Submission dicoding/HelloKotlin/Notepad/ConsumerApp/src/main/res/layout/item_note.xml"
+    }
+]

@@ -1,0 +1,8 @@
+com/dean/consumerapp/BuildConfig.java
+ com.dean.consumerapp.BuildConfig
+com/dean/consumerapp/databinding/ActivityMainBinding.java
+ com.dean.consumerapp.databinding.ActivityMainBinding
+com/dean/consumerapp/databinding/ActivityNoteAddUpdateBinding.java
+ com.dean.consumerapp.databinding.ActivityNoteAddUpdateBinding
+com/dean/consumerapp/databinding/ItemNoteBinding.java
+ com.dean.consumerapp.databinding.ItemNoteBinding
